@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CECS475LabAssignment9Part2", "CECS475LabAssignment9Part2\CECS475LabAssignment9Part2.csproj", "{FA8B6DFE-91C7-4876-80CF-20EBA42B990E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CECS475LabAssignment9Part2.Tests", "CECS475LabAssignment9Part2.Tests\CECS475LabAssignment9Part2.Tests.csproj", "{8A06E2E8-5993-4384-9146-0C45036C192C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FA8B6DFE-91C7-4876-80CF-20EBA42B990E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA8B6DFE-91C7-4876-80CF-20EBA42B990E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA8B6DFE-91C7-4876-80CF-20EBA42B990E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A06E2E8-5993-4384-9146-0C45036C192C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A06E2E8-5993-4384-9146-0C45036C192C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A06E2E8-5993-4384-9146-0C45036C192C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A06E2E8-5993-4384-9146-0C45036C192C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
